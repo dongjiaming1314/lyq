@@ -1,10 +1,6 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
       洒洒水
-=======
-    wdnmd123
->>>>>>> 3517b0eb4055bd2bfd7d495ce882d9a960f4ebea
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
