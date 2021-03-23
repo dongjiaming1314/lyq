@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      王坤小哥哥
-      24如4它5如
+    44r5r535t4r45
+      
     </div>
     <router-view/>
   </div>
